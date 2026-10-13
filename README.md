@@ -37,7 +37,7 @@ credit-risk-predictor/
 ## Setup
 
 ```bash
-git clone https://github.com/ManishThumma/credit-risk-predictor.git
+git clone https://github.com/sainikhiljuluri/credit-risk-predictor.git
 cd credit-risk-predictor
 pip install -r requirements.txt
 ```
@@ -103,6 +103,3 @@ cd app && streamlit run streamlit_app.py
 
 Python · LightGBM · scikit-learn · SHAP · Streamlit · Plotly · pandas · numpy
 
----
-
-**Author:** Manish Reddy Thumma

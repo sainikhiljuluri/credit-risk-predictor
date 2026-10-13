@@ -439,5 +439,4 @@ with tab3:
 ---
 
 **Dataset:** [Home Credit Default Risk — Kaggle](https://www.kaggle.com/competitions/home-credit-default-risk)
-**Author:** Manish Reddy Thumma
 """)
